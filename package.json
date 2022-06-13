@@ -2,6 +2,9 @@
   "name": "ecommerce",
   "version": "1.0.0",
   "description": "> Ecommerce website built with the MERN stack with React Context API for state management, pure CSS for style",
+  "engines": {
+    "node": "16.x"
+  },
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
