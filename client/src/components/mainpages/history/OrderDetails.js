@@ -33,10 +33,10 @@ function OrderDetails() {
                 </thead>
                 <tbody>
                     <tr>
-                        <td>{orderDetails.address.recipient_name}</td>
-                        <td>{orderDetails.address.line1 + " - " + orderDetails.address.city}</td>
-                        <td>{orderDetails.address.postal_code}</td>
-                        <td>{orderDetails.address.country_code}</td>
+                        <td>{orderDetails.address.recipient_name}Kumar</td>
+                        <td>{orderDetails.address.line1 + " - " + orderDetails.address.city}Hassan</td>
+                        <td>{orderDetails.address.postal_code}573211</td>
+                        <td>{orderDetails.address.country_code}91 India</td>
                     </tr>
                 </tbody>
             </table>
